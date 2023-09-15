@@ -18,7 +18,7 @@ const Nav = () => {
          <div class="collapse navbar-collapse" id="navbar-toggler">
           <form action="" class="d-flex ms-auto">
             <div class="input-group">
-              <input type="text"  class="form-control">
+              <input type="text"  class="form-control"/>
               <button class="btn btn-primary" id="button-search">
                 <i class="bi bi-search"></i>
               </button>
@@ -40,8 +40,6 @@ const Nav = () => {
          </div>
       </div>
     </nav>
-   
-
   )
 }
 
